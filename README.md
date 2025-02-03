@@ -1,16 +1,15 @@
 # RAAC
 
+### Prize Pool
 
-### Prize Pool TO BE FILLED OUT BY CYFRIN
-
-- Total Pool -
-- H/M -
-- Low -
+- Total Pool - $77,280
+- H/M - $74,000
+- Low - $3,280
 
 - Starts: February 03, 2025 Noon UTC
 - Ends: February 24, 2025 Noon UTC
 
-- nSLOC:
+- nSLOC: 3864
 
 [//]: # (contest-details-open)
 
