@@ -123,8 +123,8 @@ Dependencies: NodeJS
 
 Installing:
 ```bash
-git clone https://github.com/RegnumAurumAcquisitionCorp/core
-cd clone
+git clone https://github.com/Cyfrin/2025-02-raac.git
+cd 2025-02-raac
 npm install
 ```
 
