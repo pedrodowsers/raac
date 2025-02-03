@@ -25,7 +25,7 @@ Additional governance and ve-mechanism on dual-gauge systems allow the pilot to 
 
 ```
 
-- [Documentation](docs.raac.io)
+- [Documentation](https://github.com/Cyfrin/2025-02-raac/tree/main/docs)
 - [Website](www.raac.io)
 - [Twitter](www.twitter.com/RegnumAurum)
 - [GitHub](www.github.com/RegnumAurumAcquisitionCorp)
